@@ -143,7 +143,7 @@ During my internship period, I participated in multiple community-oriented and p
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/karnikachinmayi/library_management_system/main/Karnika%20Chinamayi-G6CC_Community%20Services/Helping_Senior_Citizen.jpg.jpeg" width="30%">
-<img src="https://raw.githubusercontent.com/Hemanthsheena24/library_management_system/main/Hemanth%20Kumar%20M%20S-G6CC_Community%20Services/Plantation.jpg.jpeg" alt="Plantation Activity" width="30%">
+<img src="https://raw.githubusercontent.com/karnikachinmayi/library_management_system/main/Karnika%20Chinamayi-G6CC_Community%20Services/Plantation.jpeg" width="30%">
 </div>
 
 ## **Certificate**
